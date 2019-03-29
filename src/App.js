@@ -9,15 +9,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Changed!
+            PLEASE STAND BY
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://fallout.bethesda.net"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Vault-Tec Corporation 
           </a>
         </header>
       </div>
